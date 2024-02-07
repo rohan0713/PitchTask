@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "721997927373",
+    "firebase_url": "https://hiresbackend-default-rtdb.firebaseio.com",
+    "project_id": "hiresbackend",
+    "storage_bucket": "hiresbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721997927373:android:ba580c9b898de0e8d62a84",
+        "android_client_info": {
+          "package_name": "com.social.pitchtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTRoQNkzB0ejUHLJtArwzp7ca3-D1dXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
